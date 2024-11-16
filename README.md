@@ -1,2 +1,2 @@
-# Chat-with-your-pdf
-Build an application that allows to ask questions about a PDF document and get answers directly from an LLM (Large Language Model), like OpenAI's ChatGPT.
+# Extract Data from PDF
+Build an application that extracts data from PDF documents and organizes it into a DataFrame using an LLM like Gemini Pro.
